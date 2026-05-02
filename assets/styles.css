@@ -555,7 +555,7 @@ em { font-style: italic; }
 }
 .footer-brand .logo-diamond { width: 36px; height: 36px; margin-bottom: 14px; }
 .footer-brand p { margin: 0 0 10px; font-size: 0.92rem; color: var(--ink-muted); line-height: 1.55; }
-.footer-brand a { color: var(--teal-ink); }
+.footer-brand a { color: var(--teal-ink); display: inline-flex; align-items: center; min-height: 44px; padding: 6px 0; }
 .footer-links ul { list-style: none; padding: 0; margin: 0; }
 .footer-links li { margin-bottom: 10px; font-size: 0.92rem; }
 .footer-links a { color: var(--ink); display: inline-flex; align-items: center; min-height: 44px; padding: 6px 0; }
