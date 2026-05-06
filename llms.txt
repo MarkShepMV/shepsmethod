@@ -1,0 +1,25 @@
+# The S.H.E.P.S. Method
+
+> The book and patient community for people on GLP-1 medications. Sleep, Hydration, Exercise, Protein, Supplements — the five pillars for getting the best results from Ozempic, Wegovy, Mounjaro, or Zepbound.
+
+The S.H.E.P.S. Method is a plain-English framework created by Mark "Shep" Shepherd — a 35-year medical device sales veteran who lost 50 pounds in 9 months on Mounjaro. The site sells the book "Your First 9 Months on GLP-1 — The S.H.E.P.S. Method" (PDF, EPUB, paperback bundle), runs the workshop, and routes patients to the private Skool community.
+
+## Core pages
+
+- [Home](https://shepsmethod.com/): The S.H.E.P.S. Method overview, book bundles, and how to start
+- [About Mark "Shep" Shepherd](https://shepsmethod.com/about.html): Founder bio and the story behind the method
+
+## Founder
+
+Mark "Shep" Shepherd, 35 years in U.S. medical device sales (26 at Medtronic, two-time U.S. Representative of the Year). GLP-1 patient who lost 50 pounds in 9 months on Mounjaro. Creator of The S.H.E.P.S. Method. Full bio at https://shepsmethod.com/about.html.
+
+## Other properties
+
+- [GLP-1 Maps](https://www.glp1maps.com/): Directory of GLP-1 providers in the U.S.
+- [GLP-1 Receptionist](https://glp1receptionist.com/): AI voice receptionist for GLP-1 clinics.
+- [BMI for GLP-1](https://www.bmiforglp1.com/): BMI calculator and eligibility guide for GLP-1 medications.
+- [Insurance GLP-1](https://www.insuranceglp1.com/): Insurance coverage guide for Ozempic, Wegovy, Mounjaro, Zepbound.
+
+## Disclaimer
+
+The S.H.E.P.S. Method is a lifestyle framework, not medical advice. Always consult a licensed healthcare provider before starting, stopping, or changing any GLP-1 medication. Brand marks (The S.H.E.P.S. Method, GLP-1 Maps, GLP-1 Receptionist) are service marks pending USPTO registration.
