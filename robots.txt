@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /thank-you-pdf.html
+Disallow: /thank-you-epub.html
+Disallow: /thank-you-bundle.html
+Disallow: /thank-you-workbook.html
+Disallow: /thank-you-workshop.html
+Disallow: /circle/
+Disallow: /society/
 
 Sitemap: https://shepsmethod.com/sitemap.xml
