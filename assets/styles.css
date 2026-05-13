@@ -784,3 +784,16 @@ a:focus-visible, button:focus-visible, .btn:focus-visible {
   .upsell { grid-template-columns: 1fr; text-align: left; }
   .upsell-buy { text-align: center; }
 }
+
+
+/* Business info block in footer */
+.footer-brand .business-info {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--ink-muted);
+}
+.footer-brand .business-info strong { color: var(--ink); }
+.footer-brand .business-info a { color: var(--teal-ink); padding: 2px 0; min-height: auto; }
